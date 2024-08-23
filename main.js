@@ -3,7 +3,6 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.31
 // @description  Использует текст с одной страницы для поиска на другой странице, извлекает ответы, возвращается на исходный сайт и автоматически заполняет тест
-// @author       kiraygd
 // @match        *.edu.rosminzdrav.ru/*
 // @match        https://24forcare.com/search/*
 // @match        https://24forcare.com/testyi-nmo/*
